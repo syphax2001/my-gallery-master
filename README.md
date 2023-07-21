@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="http://127.0.0.1:5500/index.html">
+    <a href="https://syphax2001.github.io/my-gallery-master/">
       Demo
     </a>
     <span> | </span>
